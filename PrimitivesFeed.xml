@@ -22,7 +22,7 @@
 <outline text="Episodes - Hello Metaverse" title="Episodes - Hello Metaverse" type="rss" xmlUrl="https://hellometaverse.fm/episodes?format=rss" htmlUrl="https://hellometaverse.fm/episodes/"/>
 <outline text="0xPARC" title="0xPARC" type="rss" xmlUrl="https://rss.app/feeds/cWXGYts0ZM8C3F6t.xml" htmlUrl="https://0xparc.org/blog"/>
 <outline text="Boardroom" title="Boardroom" type="rss" xmlUrl="https://governance.substack.com/feed" htmlUrl="https://governance.substack.com"/>
-<outline text="Comments on: Episodes" title="Comments on: Episodes" type="rss" xmlUrl="https://zeroknowledge.fm/episodes/feed/" htmlUrl="https://zeroknowledge.fm"/>
+<outline text="ZK Podcast" title="ZK Podcast Episodes" type="rss" xmlUrl="https://zeroknowledge.fm/feed/" htmlUrl="https://zeroknowledge.fm"/>
     </outline>
   </body>
 </opml>
