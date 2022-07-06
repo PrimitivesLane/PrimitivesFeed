@@ -23,6 +23,7 @@
 <outline text="0xPARC" title="0xPARC" type="rss" xmlUrl="https://rss.app/feeds/cWXGYts0ZM8C3F6t.xml" htmlUrl="https://0xparc.org/blog"/>
 <outline text="Boardroom" title="Boardroom" type="rss" xmlUrl="https://governance.substack.com/feed" htmlUrl="https://governance.substack.com"/>
 <outline text="ZK Podcast" title="ZK Podcast Episodes" type="rss" xmlUrl="https://zeroknowledge.fm/feed/" htmlUrl="https://zeroknowledge.fm"/>
+<outline text="Security in WEB3" title="Security in WEB3" type="rss" xmlUrl="https://securityinweb3.substack.com/feed" htmlUrl="https://securityinweb3.substack.com"/>
     </outline>
   </body>
 </opml>
