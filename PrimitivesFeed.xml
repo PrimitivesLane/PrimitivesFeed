@@ -25,6 +25,8 @@
 <outline text="ZK Podcast" title="ZK Podcast Episodes" type="rss" xmlUrl="https://zeroknowledge.fm/feed/" htmlUrl="https://zeroknowledge.fm"/>
 <outline text="Security in WEB3" title="Security in WEB3" type="rss" xmlUrl="https://securityinweb3.substack.com/feed" htmlUrl="https://securityinweb3.substack.com"/>
 <outline text="Dune Digest" title="Dune Digest" type="rss" xmlUrl="https://dunedigest.substack.com/feed" htmlUrl="https://dunedigest.substack.com"/>
+<outline text="ZK Research Highlights" title="ZK Research Highlights" type="rss" xmlUrl="https://zk.cryptography.land/feed" htmlUrl="https://zk.cryptography.land/"/>
+
 
     </outline>
   </body>
